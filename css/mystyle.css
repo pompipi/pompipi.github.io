@@ -1,0 +1,53 @@
+/*#313f3e*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,700|Playfair+Display:400,900|Roboto:700');
+
+@media (min-width: 1200px) {
+	.container{
+		max-width: 750px;
+	}
+}
+
+html, .container {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	background: url("../images/background.png");
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size:contain;
+}
+
+.row#header{
+	height:15%;
+}
+
+.row#content {
+	background-color: white;
+	height:100%;
+}
+
+div#logo {
+	font-family: 'Playfair Display Black', serif;
+	font-size: 48px;
+	color: #EBF7FF;
+	text-align: right;
+}
+
+nav a.nav-style {
+	color: black;
+	font-family: Roboto, sans-serif;
+	font-weight: 500;
+}
+
+nav a#dropdown{
+	float: right;
+}
+
+.post-title {
+	font-family: 'Playfair Display', serif;
+}
+
+.excerpt {
+	font-family: 'Open Sans', sans-serif;	
+}
