@@ -45,6 +45,7 @@ The role of technology in all this?
 Key Thinktanks
 - https://www.ipcc.ch/
 - https://climateanalytics.org/
+- https://climateactiontracker.org
 
 It seems to me that so many of the science oriented approach to climate studies, misses the point about the very human cause, and impact that climate change has to us. There is so much science, analysis, and reams of PDF pages to read, wrapped in technical language, that it feels inaccessible to you and I. The argument has to be though, that humans are the ones that caused this through massive population growth coupled with unbridled wants of things. It's not governments, industry, or corporations that is the cause of this. It's us. Paris Agreements, Net Zero targets, discussed at the pan-national level simply disassociates the issue from our everyday lives.
 
@@ -54,6 +55,14 @@ If it is to consumer or make more money and be rich, then we are likely all doom
 
 It has to be something more than consumption, or GDP, to have any chance to avoid the inevitable conclusion.
 
-Books will not change the way we think.
+Take a look at Patagonia Inc. They have an advanced set of products, services, and policies that connect them back to the nuts and bolts of what's wrong with consumption. They make things that last, encourage not to buy but repair or buy used, and they actively participate in environmet activism, giving 1% of sales back to causes (And is that 1% from owned-stores, or from their entire distribution?), and setup a platform for other companies and people, to be part of that. Connecting profit making into influencing responsible consumption is key. But what impact have they made? What if all companies did this? What if smartphone makers made phones that will last half a lifetime?
+
+But on the flip side, althought Patagonia Inc. celebrates all these, when they talk about workers paid a living wage, you'd wonder why they are so much poorer than us. Why are they the ones making our products, it that really the status quo? Can corporations do more to right income inequality?
+
+So how far can companies play a role in climate change? They are at the end, part of the capitalist free-market system that has led us to this.
 
 If we can put in place a regulation that requires bidding for the right to own a car, thereby curtailing our market freedom, why would we not put in place a policy that curtails consumption, and rewards social good? Past a certain threshold, greater GDP growth does not equate to personal happiness.
+
+The free-market system - profit making, self-interest
+
+But we are surely better. At the end, the road to disaster is still often borne out of good intentions.
