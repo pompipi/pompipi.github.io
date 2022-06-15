@@ -15,9 +15,9 @@
     
 
     
-    <meta name="title" content="" />
-    <meta property="og:title" content="" />
-    <meta property="twitter:title" content="" />
+    <meta name="title" content="coding" />
+    <meta property="og:title" content="coding" />
+    <meta property="twitter:title" content="coding" />
     
 
     
@@ -34,9 +34,9 @@
     <meta name="keyword"  content="philoshophy, technology, computing, economics, sustainability, mathematics, physics">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>Searches | Thought Matters</title>
+    <title>coding | Thought Matters</title>
 
-    <link rel="canonical" href="/search/">
+    <link rel="canonical" href="/tags/coding/">
 
     
     
@@ -173,6 +173,7 @@
 
 
 
+  
 <div class="container">
     <div class="row">
         
@@ -185,113 +186,35 @@
             post-container
         ">
             
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/min/moment.min.js"></script>
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
 
-<div id="search-searchbar"></div>
- <div class="post-list" id="search-hits">
- </div>
+<div class="post-preview">
+    <a href="https://pompipi.github.io/post/archlinux_wsl/">
+        <h2 class="post-title">
+            How to install ArchLinux on WSL2 from scratch
+        </h2>
+	
+        <div class="post-content-preview">
+	
+            How to install ArchLinux on WSL2 from scratch 19 Feb 2022
+Install Docker desktop on windows and enable WSL2 integration Need an existing WSL2 distribution already installed, because we need to run Docker from there. Use Ubuntu. Install ArchLinux Docker container from Ubuntu WSL2. This will be the basis of the distribution installed on WSL2. Run the container, and setup some things like users etc. Add user to wheel group, and enable by visudo and uncomment: ## Uncomment to allow members of group wheel to execute any command with no passwd %wheel ALL=(ALL) ALL NOPASSWD: ALL Export image into tar file Register ArchLinux tar file to WSL2 To set default login user, edit wsl.
+       
+        </div>
+    </a>
+    <p class="post-meta">
+    
+        Posted by      &#34;pompipi&#34; on Wednesday, June 15, 2022
+        
+        
+    
+    </p>
 
-<script>
-const search = instantsearch({
-  appId: '',
-  indexName: '',
-  apiKey: ''
-});
-
-const hitTemplate = function(hit) {
-
-
-  let date = '';
-  if (hit.date) {
-    date = moment.unix(hit.date).format('MMM D, YYYY');
-  }
-  let url = `${hit.url}#${hit.anchor}`;
-  const title = hit._highlightResult.title.value;
-
-  let breadcrumbs = '';
-  if (hit._highlightResult.headings) {
-    breadcrumbs = hit._highlightResult.headings.map(match => {
-      return `<span class="post-breadcrumb">${match.value}</span>`
-    }).join(' > ')
-  }
-
-  let content = "" ; 
-  if (hit._highlightResult.content){
-      content = hit._highlightResult.content.value;
-  }
-  else{
-      content = hit.summary;
-  }
+</div>
+<hr>
 
 
-  return `
-    <div class="post-item">
-      <span class="post-meta">${date}</span>
-      <h2><a class="post-link" href="${url}">${title}</a></h2>
-      <a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>
-      <div class="post-snippet">${content}</div>
-    </div>
-  `;
-}
+            
 
 
-search.addWidget(
-  instantsearch.widgets.searchBox({
-    container: '#search-searchbar',
-    placeholder: 'Search into posts...',
-    poweredBy: true // This is required if you're on the free Community plan
-  })
-);
-
-search.addWidget(
-  instantsearch.widgets.hits({
-    container: '#search-hits',
-    templates: {
-      item: hitTemplate
-    }
-  })
-);
-
-search.start();
-</script>
-
-<style>
-.ais-search-box {
-  max-width: 100%;
-  margin-bottom: 15px;
-}
-.post-item {
-  margin-bottom: 30px;
-}
-.post-link .ais-Highlight {
-  color: #111;
-  font-style: normal;
-  text-decoration: underline;
-}
-.post-breadcrumbs {
-  color: #424242;
-  display: block;
-}
-.post-breadcrumb {
-  font-size: 18px;
-  color: #424242;
-}
-.post-breadcrumb .ais-Highlight {
-  font-weight: bold;
-  font-style: normal;
-}
-.post-snippet .ais-Highlight {
-  color: #2a7ae2;
-  font-style: normal;
-  font-weight: bold;
-}
-.post-snippet img {
-  display: none;
-}
-</style>
 
        	</div>
         
@@ -389,6 +312,8 @@ search.start();
 
 	</div>
 </div>
+
+
 
 
 
