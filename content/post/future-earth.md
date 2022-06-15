@@ -32,7 +32,7 @@ Future Earth explores these ideas.
 - Free market
 - Consumerism
 - Circular economy
-- Doughnut economics, degrowth, post-growth
+- Doughnut economics, degrowth, post-growth, steady-state growth
   - https://www.eea.europa.eu/publications/growth-without-economic-growth
 
 The role of technology in all this?
