@@ -40,3 +40,4 @@ The role of technology in all this?
 - Measure tech: ways to measure economy, climate impact, impact of intervention activities
   - Not as developed?
 - Community tech: using social to activate collective action
+- Data centres need to be green
