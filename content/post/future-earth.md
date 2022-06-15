@@ -41,3 +41,19 @@ The role of technology in all this?
   - Not as developed?
 - Community tech: using social to activate collective action
 - Data centres need to be green
+
+Key Thinktanks
+- https://www.ipcc.ch/
+- https://climateanalytics.org/
+
+It seems to me that so many of the science oriented approach to climate studies, misses the point about the very human cause, and impact that climate change has to us. There is so much science, analysis, and reams of PDF pages to read, wrapped in technical language, that it feels inaccessible to you and I. The argument has to be though, that humans are the ones that caused this through massive population growth coupled with unbridled wants of things. It's not governments, industry, or corporations that is the cause of this. It's us. Paris Agreements, Net Zero targets, discussed at the pan-national level simply disassociates the issue from our everyday lives.
+
+People then look for solutions at that level. The decoupled growth suggestion, looks at how GDP at the national level, can be decoupled from resource use. A creative solution seemingly allowing us to weasle our way out of the problem at hand. Have your carbon and eat it, will you. What needs to be done, is for each of us, to think about what is the goal and purpose of our existence. Is it to consume? Make more money? Some greater calling?
+
+If it is to consumer or make more money and be rich, then we are likely all doomed. As there is no scenarios where we have infinite consumption on a finit earth. What more, solutions are invented within the market system, which by definition is about consumption. So for example, when someone says, there's not enough finance moving into sustainability activities, it's thinking within the means of the market. There is an implied assumption, not only that the market is the way to solve this, but that money will solve this. The more money, the more effort we will put into this. But unfortunately, we as consumers don't really get to benefit the way buying from Amazon benefits us does it. So then how will this money beget profit, especially when so much of the benefit is non-economic, but social in nature.
+
+It has to be something more than consumption, or GDP, to have any chance to avoid the inevitable conclusion.
+
+Books will not change the way we think.
+
+If we can put in place a regulation that requires bidding for the right to own a car, thereby curtailing our market freedom, why would we not put in place a policy that curtails consumption, and rewards social good? Past a certain threshold, greater GDP growth does not equate to personal happiness.
